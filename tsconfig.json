@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "lib": ["es2016", "DOM"],
+    "allowSyntheticDefaultImports": true
+  },
+  "exclude": ["node_modules"]
+}
